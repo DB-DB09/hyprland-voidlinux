@@ -86,11 +86,11 @@ Follow these steps to install Hyprland on your Void Linux system:
 
 |                                  Keys | Action                          |
 | ------------------------------------: | :------------------------------ |
-|                  <kbd>SUPER + C</kbd> | Close window                    |
+|                  <kbd>SUPER + Q</kbd> | Close window                    |
 |                  <kbd>SUPER + K</kbd> | Toggle Waybar                   |
 |                  <kbd>SUPER + P</kbd> | Toggle pseudo-tiling            |
 |                  <kbd>SUPER + D</kbd> | Toggle split                    |
-|                        <kbd>F11</kbd> | Fullscreen                      |
+|                        <kbd>SUPER + F</kbd> | Fullscreen                      |
 |                  <kbd>SUPER + F</kbd> | Maximize                        |
 |  <kbd>SUPER + Arrows or H,J,K,L</kbd> | Move window focus               |
 |       <kbd>SUPER + ALT + Arrows</kbd> | Move tiled window               |
@@ -108,7 +108,7 @@ Follow these steps to install Hyprland on your Void Linux system:
 
 |                 Keys | Action            |
 | -------------------: | :---------------- |
-| <kbd>SUPER + R</kbd> | App launcher      |
+| <kbd>SUPER + D</kbd> | App launcher      |
 | <kbd>SUPER + V</kbd> | Clipboard manager |
 | <kbd>SUPER + L</kbd> | Logout menu       |
 | <kbd>SUPER + U</kbd> | Wallpaper menu    |
@@ -119,7 +119,6 @@ Follow these steps to install Hyprland on your Void Linux system:
 
 |                 Keys | Action               |
 | -------------------: | :------------------- |
-| <kbd>SUPER + Q</kbd> | Terminal             |
-| <kbd>SUPER + W</kbd> | Terminal with zellij |
-| <kbd>SUPER + E</kbd> | File manager         |
+| <kbd>SUPER + ENTER</kbd> | Terminal         |
+| <kbd>SUPER + T</kbd> | File manager         |
 | <kbd>SUPER + N</kbd> | Network manager      |
