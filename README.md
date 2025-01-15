@@ -89,9 +89,7 @@ Follow these steps to install Hyprland on your Void Linux system:
 |                  <kbd>SUPER + Q</kbd> | Close window                    |
 |                  <kbd>SUPER + K</kbd> | Toggle Waybar                   |
 |                  <kbd>SUPER + P</kbd> | Toggle pseudo-tiling            |
-|                  <kbd>SUPER + D</kbd> | Toggle split                    |
-|                        <kbd>SUPER + F</kbd> | Fullscreen                      |
-|                  <kbd>SUPER + F</kbd> | Maximize                        |
+|                        <kbd>SUPER + F</kbd> | Fullscreen                |
 |  <kbd>SUPER + Arrows or H,J,K,L</kbd> | Move window focus               |
 |       <kbd>SUPER + ALT + Arrows</kbd> | Move tiled window               |
 |       <kbd>SUPER + ALT + Arrows</kbd> | Resize window                   |
